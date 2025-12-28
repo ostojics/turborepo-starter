@@ -3,12 +3,12 @@ packages:
   - packages/*
   - tooling/*
 catalog:
-  eslint: ^9.27.0
-  prettier: ^3.5.3
-  typescript: ^5.8.3
+  eslint: ^9.39.2
+  prettier: ^3.7.4
+  typescript: ^5.9.3
   tsup: ^8.5.0
-  react: 19.0.0
-  react-dom: 19.0.0
-  '@types/react': ^19.1.6
-  '@types/react-dom': ^19.1.5
-  react-hook-form: '^7.56.4'
+  react: 19.2.3
+  react-dom: 19.2.3
+  '@types/react': ^19.2.7
+  '@types/react-dom': ^19.2.3
+  react-hook-form: ^7.69.0
