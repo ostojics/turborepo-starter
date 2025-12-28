@@ -99,9 +99,9 @@ pnpm install
 
 ```
 
-3.  **Build packages:**
+3.  **Build:**
 
-Build shared code
+Build all projects and libraries (required for compiled packages -> https://turborepo.com/docs/core-concepts/internal-packages#compiled-packages)
 
 ```bash
 
