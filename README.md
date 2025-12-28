@@ -99,7 +99,17 @@ pnpm install
 
 ```
 
-3.  **Run the development servers:**
+3.  **Build packages:**
+
+Build shared code
+
+```bash
+
+pnpm build
+
+```
+
+4.  **Run the development servers:**
 
 This will start the development servers for all applications in the monorepo.
 
