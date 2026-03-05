@@ -39,8 +39,10 @@
     "react-native-screens": "~4.11.1",
     "react-native-web": "~0.20.0",
     "react-native-webview": "13.13.5",
-    "@acme/validation": "workspace:*",
-    "react-hook-form": "catalog:"
+    "@acme/contracts": "workspace:*",
+    "react-hook-form": "catalog:",
+    "@hookform/resolvers": "catalog:",
+    "zod": "catalog:"
   },
   "devDependencies": {
     "@acme/linting": "workspace:*",

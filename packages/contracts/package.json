@@ -1,5 +1,5 @@
 {
-  "name": "@acme/validation",
+  "name": "@acme/contracts",
   "version": "0.0.1",
   "private": true,
   "type": "module",
@@ -17,12 +17,7 @@
     "clean": "rm -rf dist"
   },
   "dependencies": {
-    "@hookform/resolvers": "^5.0.1",
-    "react-hook-form": "catalog:",
-    "yup": "^1.6.1"
-  },
-  "peerDependencies": {
-    "react": "catalog:"
+    "zod": "catalog:"
   },
   "devDependencies": {
     "@types/react": "catalog:",

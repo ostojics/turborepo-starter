@@ -1,4 +1,4 @@
-import {useValidateLogin} from '@acme/validation';
+import {useValidateLogin} from '../hooks/use-validate-login';
 
 const LoginPage = () => {
   const {

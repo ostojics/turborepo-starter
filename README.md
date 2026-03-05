@@ -55,9 +55,9 @@ This Turborepo starter includes the following apps and packages:
 
 ### Packages
 
-- `packages/validation`:
+- `packages/contracts`:
 
-- A placeholder for your shared validation logic.
+- A placeholder for your shared contracts and schema logic.
 
 ### Tooling
 
