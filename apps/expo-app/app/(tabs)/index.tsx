@@ -1,7 +1,8 @@
-import {LoginDTO, useValidateLogin} from '@acme/validation';
 import React from 'react';
 import {Controller} from 'react-hook-form';
 import {Button, Platform, SafeAreaView, StyleSheet, Text, TextInput, View} from 'react-native';
+import {LoginDTO} from '@acme/contracts';
+import {useValidateLogin} from '../../hooks/use-validate-login';
 
 const LoginPage = () => {
   const {
